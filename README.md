@@ -1,2 +1,2 @@
-# programming-foundations-with-python
-udacity | programming foundations with python 5 exercises solutions.
+# programming foundations with python
+Udacity | programming foundations with python 5 mini projects solutions.
